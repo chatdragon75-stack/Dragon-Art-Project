@@ -7,4 +7,5 @@ const DRAGONS=[
 {name:"Волтис",element:"Молния",description:"Энергичный дракон с седлом из нашей новой коллекции.",image:"art/dragons/voltis.jpg"},
 {name:"Беляк",element:"Свет / Воздух",description:"Благородный белый дракон с синим седлом и золотыми деталями.",image:"art/dragons/belyak.jpg"},
 {name:"Люмендра",element:"Знания / Звёзды",description:"Хранительница знаний и историй, живущая в небесной библиотеке.",image:"art/dragons/lumendra.jpg"}
-];
+];;
+const ART_TYPES=["Персонажи","Седло","Логово"];
